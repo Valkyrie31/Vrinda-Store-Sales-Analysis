@@ -1,4 +1,4 @@
-# Vrinda Store Sales Analysis 📊
+# Vrinda Store Sales Analysis 
 
 ## Objective
 The objective of this project is to analyze Vrinda Store sales data using MS Excel and create an interactive dashboard to identify customer behavior, sales trends, and business insights.
